@@ -16,7 +16,7 @@
 
 **[risu-reader](https://github.com/mitchellmoon/risu-reader)**
 — RisuAI 채팅 로그 read-only 뷰어
-한국 AI채팅 커뮤니티 인기글 + Reddit 공유율 25% 달성. 계속 정비 예정.
+AI채팅 커뮤니티 인기글 및 Reddit 공유율 25% 달성. 계속 정비예정.
 
 ---
 
