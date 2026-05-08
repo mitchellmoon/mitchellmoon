@@ -11,11 +11,11 @@
 
 **[Subtitle Player](https://github.com/mitchellmoon/subtitle-player)** 
 — 안드로이드 오버레이 자막 플레이어
-모바일 자막 플레이어 시장 공백 발견 → 5일 만에 원스토어 출시. Google Play 6개국 진출 준비 중.
+현재 원스토어 출시. Google Play 6개국 진출 준비 중.
 
 **[risu-reader](https://github.com/mitchellmoon/risu-reader)**
 — RisuAI 채팅 로그 read-only 뷰어
-1일 V1 출시, 한국 AI채팅 커뮤니티 인기글 + Reddit 공유율 25% 달성.
+한국 AI채팅 커뮤니티 인기글 + Reddit 공유율 25% 달성. 계속 정비 예정.
 
 ---
 
