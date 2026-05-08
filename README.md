@@ -9,10 +9,12 @@
 
 #### 🚀 만들고 있는 것
 
-**[Subtitle Player](https://github.com/mitchellmoon/subtitle-player)** — 안드로이드 오버레이 자막 플레이어
+**[Subtitle Player](https://github.com/mitchellmoon/subtitle-player)** 
+— 안드로이드 오버레이 자막 플레이어
 모바일 자막 플레이어 시장 공백 발견 → 5일 만에 원스토어 출시. Google Play 6개국 진출 준비 중.
 
-**[risu-reader](https://github.com/mitchellmoon/risu-reader)** — RisuAI 채팅 로그 read-only 뷰어
+**[risu-reader](https://github.com/mitchellmoon/risu-reader)**
+— RisuAI 채팅 로그 read-only 뷰어
 1일 V1 출시, 한국 AI채팅 커뮤니티 인기글 + Reddit 공유율 25% 달성.
 
 ---
@@ -27,7 +29,7 @@
 
 #### 📍 배경
 
-충북대학교 국제경영학과 · 미국 UCO 교환학생 (전액장학금)
-TOEIC 935 / OPIc IH / 비즈니스 영어 통역 경험
+충북대학교 국제경영학과 · 미국 UCO 교환학생 
+비즈니스 영어 통역 경험
 
 📫 minmoon33@naver.com
