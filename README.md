@@ -17,7 +17,7 @@ RisuAI 채팅 로그 read-only 뷰어 · GitHub Pages 공개
 ![risu-reader](RISUREADER.jpg)
 
 → [risu-reader](https://github.com/mitchellmoon/risu-reader)  
-→ [Live Demo](https://mitchellmoon.github.io)
+→ [Live Demo][(https://mitchellmoon.github.io)]
 
 ---
 
